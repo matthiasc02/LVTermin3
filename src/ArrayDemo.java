@@ -19,14 +19,14 @@ public class ArrayDemo {
 		System.out.println(
 				"* " + (Array1[0] * Array2[0]) + ", " + (Array1[1] * Array2[1]) + ", " + (Array1[2] * Array2[2]));
 
-		//Wochentage Ausgeben
-		
-		String[] tage = {"Mo","Di","Mi","Do","Fr","Sa","So"};
-		
-		for(int t=0; t<tage.length;t++){
+		// Wochentage Ausgeben
+
+		String[] tage = { "Mo", "Di", "Mi", "Do", "Fr", "Sa", "So" };
+
+		for (int t = 0; t < tage.length; t++) {
 			System.out.println(tage[t]);
 		}
-		
+
 	}
 
 }
