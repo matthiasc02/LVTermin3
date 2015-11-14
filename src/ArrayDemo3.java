@@ -10,7 +10,7 @@ public class ArrayDemo3 {
 			summe += numbers[i];
 		}
 		System.out.println("Die Summer der Zahlen= "+summe);
-		
+
 		
 
 	}
